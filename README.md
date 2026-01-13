@@ -8,7 +8,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="18" width="18" /> [**in/muhammet-mücahit-aydın**](https://www.linkedin.com/in/muhammet-m%C3%BCcahit-ayd%C4%B1n-b49b8932a)
 
-### 🛠️ Teknolojiler & Araçlar
+### 💻 Programlama Dilleri
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
